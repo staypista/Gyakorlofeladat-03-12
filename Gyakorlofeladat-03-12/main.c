@@ -16,13 +16,13 @@ int main()
      *  A pontok ne legyenek benne a kiiratásban.
      *  Célidő: 5 perc
      */
-    date[20] = {"1970. 03. 12."};
+    char date[20] = {"1970. 03. 12."};
 
     /** 2. Feladat:
      *  Készítsen egy függvényt ami "date" tömböt felülírja "currentdate" tömbbel.
      *  Célidő: 10 perc
      */
-    currentdate[] = {"2017. 03. 12."};
+    char currentdate[] = {"2017. 03. 12."};
 
     /** 3. Feladat:
      *  Írja ki a képernyőre "date" tömböt angolszász formátumban (nap/hónap/év).
