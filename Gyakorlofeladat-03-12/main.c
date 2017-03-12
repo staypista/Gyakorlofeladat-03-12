@@ -19,7 +19,7 @@ int main()
     date[20] = {"1970. 03. 12."};
 
     /** 2. Feladat:
-     *  Készítsen egy függvényt ami "date" tömböt felülírja "currentdate" tömbel.
+     *  Készítsen egy függvényt ami "date" tömböt felülírja "currentdate" tömbbel.
      *  Célidõ: 10 perc
      */
     currentdate[] = {"2017. 03. 12."};
