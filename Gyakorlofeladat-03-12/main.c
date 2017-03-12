@@ -17,6 +17,7 @@ int main()
      *  Célidő: 5 perc
      */
     date[20] = {"1970. 03. 12."};
+    printf(" ");
 
     /** 2. Feladat:
      *  Készítsen egy függvényt ami "date" tömböt felülírja "currentdate" tömbbel.
