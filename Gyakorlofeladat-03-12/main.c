@@ -11,34 +11,34 @@
 int main()
 {
     /** 1. Feladat:
-     *  Renedelkezésre áll egy "date" tömb ami egy dátumot tartalmaz!
-     *  A dátum egyes részeit írja ki a képernyõre így: 1970 (szóköz) 03 (szóköz) 12!
-     *  A pontok ne legyenek benne a kiiratásban.
-     *  Célidõ: 5 perc
+     *  RenedelkezÃ©sre Ã¡ll egy "date" tÃ¶mb ami egy dÃ¡tumot tartalmaz!
+     *  A dÃ¡tum egyes rÃ©szeit Ã­rja ki a kÃ©pernyÅ‘re Ã­gy: 1970 (szÃ³kÃ¶z) 03 (szÃ³kÃ¶z) 12!
+     *  A pontok ne legyenek benne a kiiratÃ¡sban.
+     *  CÃ©lidÅ‘: 5 perc
      */
     date[20] = {"1970. 03. 12."};
 
     /** 2. Feladat:
-     *  Készítsen egy függvényt ami "date" tömböt felülírja "currentdate" tömbbel.
-     *  Célidõ: 10 perc
+     *  KÃ©szÃ­tsen egy fÃ¼ggvÃ©nyt ami "date" tÃ¶mbÃ¶t felÃ¼lÃ­rja "currentdate" tÃ¶mbbel.
+     *  CÃ©lidÅ‘: 10 perc
      */
     currentdate[] = {"2017. 03. 12."};
 
     /** 3. Feladat:
-     *  Írja ki a képernyõre "date" tömböt angolszász formátumban (nap/hónap/év).
-     *  Célidõ: 10 perc
+     *  Ãrja ki a kÃ©pernyÅ‘re "date" tÃ¶mbÃ¶t angolszÃ¡sz formÃ¡tumban (nap/hÃ³nap/Ã©v).
+     *  CÃ©lidÅ‘: 10 perc
      */
 
      /** 4. Feladat:
-     *  Készítsen egy struktúra tipust, mely külön tárolja a nap hónap év elemeket.
-     *  És hozzon létre egy példányt az adott strukturából!
-     *  Célidõ: 15 perc
+     *  KÃ©szÃ­tsen egy struktÃºra tipust, mely kÃ¼lÃ¶n tÃ¡rolja a nap hÃ³nap Ã©v elemeket.
+     *  Ã‰s hozzon lÃ©tre egy pÃ©ldÃ¡nyt az adott strukturÃ¡bÃ³l!
+     *  CÃ©lidÅ‘: 15 perc
      */
 
      /** 5. Feladat:
-     *  Az elõzõ feladatban példányosított strukturát töltse ki a "currentdate" tömben tárolt elemekkel.
-     *  Majd irassa ki a dátumot a strukurából.
-     *  Célidõ: 10 perc
+     *  Az elÅ‘zÅ‘ feladatban pÃ©ldÃ¡nyosÃ­tott strukturÃ¡t tÃ¶ltse ki a "currentdate" tÃ¶mben tÃ¡rolt elemekkel.
+     *  Majd irassa ki a dÃ¡tumot a strukurÃ¡bÃ³l.
+     *  CÃ©lidÅ‘: 10 perc
      */
 
     return 0;
